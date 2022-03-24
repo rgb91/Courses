@@ -1,4 +1,4 @@
-# Books
+# Courses (MOOCs)
 
 This repository contains the codes, notes (optionally) from the online courses (MOOCs) I followed/studied.
 
