@@ -1,0 +1,1 @@
+In terms of probabilities, the generator wants to figure out  p(x|y) : the probability that, given that you generated a starfruit  (y=starfruit) , the resulting image  (x)  is the one generated. The output space of possible starfruit images is huge, so that makes this challenging for the generator.
